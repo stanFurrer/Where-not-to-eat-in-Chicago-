@@ -1,6 +1,7 @@
 # Title: Where (not) to eat in Chicago?
 
-# Milestone 3 
+**Author :** Stanislas Furrer & Yura Tak & Luis Carvalho  & Lucas Hariz 
+**Date :** 20.12.2018
 
 Check out our data story [here](https://jczestochowska.github.io/)
 
@@ -30,15 +31,6 @@ Our main base dataset is a kaggle one [Chicago Food Inspections](https://www.kag
 2. [Chicago zip codes geolocation](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-ZIP-Codes/gdcf-axmw) to use for visualization purposes in questions 2. and 4.
 3. [Chicago community areas geolocation](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6)
 4. [PlaceILive](https://chicago.placeilive.com/map#41.80919639152055/-87.72926330566406/10) website which has information about Life Quality Index in neighborhoods of (mainly) US cities.
-
-# Group members
-
-- Stanislas Furrer: scapping data from Google, Life Quality index analysis, Descriptive Analysis, Jekull setup, plotting, Data story
-- Yura Tak: Classification of violations, Analysis of Safe and Dangerous neighborhoods, working with Community areas, Data story
-- Luis Carvalho: Data cleaning, Map plotting, Violations encoding and visualization, Data story
-- Lucas Hariz: Evolution of restaurants, Restaurant-chain analysis, Analysis by risk, Data story
-
-Final presentation: Stanislas Furrer, Luis Carvalho
 
 ## Data story plan
 **The same plan can be also found at the end of the `project_milestone2` notebook**
