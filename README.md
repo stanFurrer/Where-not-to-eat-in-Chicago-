@@ -4,7 +4,7 @@
 
 **Date :** 20.12.2018
 
-Check out our data story [here](https://jczestochowska.github.io/)
+Check out our data story [here](https://stanfurrer.github.io/ada_stan.io/)
 
 In order to see all the plots, check out the `project_milestione_3.html` (HTML version of the notebook).
 
